@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/highalps/stringutil"
+    "github.com/highalps/go-sandbox/stringutil"
 )
 
 func main() {
